@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building in dev branch'
+                echo 'Building in dev branch testing'
             }
         }
     }
